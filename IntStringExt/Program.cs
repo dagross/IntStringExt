@@ -6,10 +6,7 @@ using System.Threading.Tasks;
 
 namespace IntStringExt
 {
-    class Program
-    {
-      
-    }
+  
     static class Red
     {
         public static void X(this string value)
