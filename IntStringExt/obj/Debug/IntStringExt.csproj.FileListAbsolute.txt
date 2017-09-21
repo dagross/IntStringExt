@@ -1,1 +1,7 @@
 c:\users\student.step\documents\visual studio 2015\Projects\IntStringExt\IntStringExt\bin\Debug\IntStringExt.exe.config
+D:\asdas\IntStringExt\bin\Debug\IntStringExt.exe.config
+D:\asdas\IntStringExt\bin\Debug\IntStringExt.exe
+D:\asdas\IntStringExt\bin\Debug\IntStringExt.pdb
+D:\asdas\IntStringExt\obj\Debug\IntStringExt.csprojResolveAssemblyReference.cache
+D:\asdas\IntStringExt\obj\Debug\IntStringExt.exe
+D:\asdas\IntStringExt\obj\Debug\IntStringExt.pdb
