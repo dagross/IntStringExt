@@ -8,13 +8,7 @@ namespace IntStringExt
 {
     class Program
     {
-        static void Main(string[] args)
-        {
-            
-            string x = "Hello";
-            x.Y(23);
-            x.X();
-        }
+      
     }
     static class Red
     {
